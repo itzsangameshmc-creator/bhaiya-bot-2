@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "BhaiyaOnTop2",
+    "username": "BhaiyaOnDown",
     "password": "",
     "type": "offline"
   },
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "Bhaiya123456"
+      "password": "BhaiyaDown1234"
     },
     "anti-afk": {
       "enabled": true,
